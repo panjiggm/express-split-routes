@@ -1,0 +1,10 @@
+{
+  "name": "express-routing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Panji Gumelar <panjiggm@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
